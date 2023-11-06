@@ -1,5 +1,5 @@
 import React from 'react';
-import ai from '../../assets/96-966866_the-opportunities-and-risks-of-artificial-intelligence-big.png';
+import ai from '../../assets/DALL_E_2023-11-06_10.25.20_-_Create_a_4K_resolution_image_of_an_abstract_geometric_human_face_with_a_zoomed-out_perspective__so_more_of_the_shape_configuration_that_composes_the_f-removebg-preview.png';
 import './header.css';
 
 const Header = () => (
